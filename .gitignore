@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# PyCharm - JetBrains
+.idea/
+
+# SQLite DB
+*.sqlite3
+
 # C extensions
 *.so
 
